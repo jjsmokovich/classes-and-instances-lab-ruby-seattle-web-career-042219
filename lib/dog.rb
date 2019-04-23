@@ -1,6 +1,4 @@
 class Dog  
-  def initialize(breed, name)  
-    # Instance variables  
-    @breed = breed  
+  def initialize(name)  
     @name = name  
   end  
