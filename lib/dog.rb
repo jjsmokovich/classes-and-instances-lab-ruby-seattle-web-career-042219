@@ -1,5 +1,5 @@
 class Dog 
-  @fido 
-  @snoopy 
-  @lassie 
+  @fido = dog
+  @snoopy = dog
+  @lassie = dog 
 end
