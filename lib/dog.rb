@@ -3,3 +3,4 @@ class Dog
   @snoopy
   @lassie
 end
+
