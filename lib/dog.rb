@@ -1,6 +1,4 @@
 class Dog 
-  @fido
-  @snoopy
-  @lassie
 end
 
+Dog.new 
